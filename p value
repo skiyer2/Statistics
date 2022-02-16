@@ -1,0 +1,6 @@
+#Explain p-value in layman terms
+
+1. p-value refers to probability value of observing what we observed or extreme results if we assume our null hypothesis is true in an hypothesis testing.
+2. Statisticians set a threshold called significance level (alpha), and in most cases this is taken to be 0.05.
+3. If the p-value is less than the significance level, then we reject the null hypothesis and we call our results 
+   statistically significant, as in they don't just occur by mere chance. Otherwise, we fail to reject null hypothesis.
